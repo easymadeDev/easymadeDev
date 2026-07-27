@@ -1,11 +1,3 @@
-👋 Hi, I'm Isaac
-
-🚀 Full-Stack Developer mainly a Backend developer 
-💻 Building with Next.js, NestJS, TypeScript & MongoDB  
-🤖 Exploring AI, automation, and developer tools  
-🌱 Always learning, building, and shipping
-
-# 💫 About Me:
 ## 👋 About Me<br><br>I'm Isaac, a Backend Developer from Nigeria with a passion for building scalable, user-focused web applications. I enjoy turning ideas into real products using modern technologies like Nodejs, NestJS, TypeScript, and MongoDB.<br><br>I'm passionate about backend development, API design, AI-assisted coding, and continuously learning new technologies. I believe in writing clean, maintainable code and building solutions that solve real-world problems.<br><br>Outside of coding, I enjoy documenting my development journey, exploring emerging AI tools, and contributing to projects that make a meaningful impact.
 
 
